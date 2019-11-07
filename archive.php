@@ -40,7 +40,7 @@
         
             /* Run the loop for the author archive page to output the authors posts
              * If you want to overload this in a child theme then include a file
-             * called loop-author.php and that will be used instead.
+             * called loop-author.php and that will be used insteadtest.
              */
              get_template_part( 'search-loop', 'search' );
              
